@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
