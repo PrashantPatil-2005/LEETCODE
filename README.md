@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
