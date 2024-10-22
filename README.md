@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0792-binary-search) |
