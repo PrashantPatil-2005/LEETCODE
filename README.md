@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
