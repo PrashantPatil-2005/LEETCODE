@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
