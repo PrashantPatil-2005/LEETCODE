@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0268-missing-number) |
 ## Sorting
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/1013-fibonacci-number) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
