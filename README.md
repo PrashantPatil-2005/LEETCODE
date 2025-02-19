@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/PrashantPatil-2005/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
